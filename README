@@ -1,0 +1,6 @@
+Change Detection Using Magnetic Field Data
+------------------------------------------
+
+Use Case: Using Mobile Phone Magnetic Field data to identify change in location of the device.
+Assumption: Significant change in the magnetic field when device move from one location to another.
+Required: Figuring out methodology to identify change in distance. Distributing change magnitude in levels. 
